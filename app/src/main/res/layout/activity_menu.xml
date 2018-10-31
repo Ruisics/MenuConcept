@@ -203,7 +203,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_marginTop="10dp"
-                    android:text="Ideas"
+                    android:text="Hotários"
                     android:textStyle="bold" />
 
                 <View
@@ -265,7 +265,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_marginTop="10dp"
-                    android:text="Banking"
+                    android:text="Sobre"
                     android:textStyle="bold" />
 
                 <View
@@ -304,7 +304,7 @@
                     android:layout_marginTop="10dp"
                     android:layout_width="64dp"
                     android:layout_height="64dp"
-                    android:background="@drawable/cerclebackgroundpink"
+                    android:background="@drawable/cerclebackgroundpurple"
                     android:padding="10dp"
                     android:src="@drawable/ic_help_black_24dp" />
 
@@ -312,7 +312,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_marginTop="10dp"
-                    android:text="Banking"
+                    android:text="FAQ"
                     android:textStyle="bold" />
 
                 <View
